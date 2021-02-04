@@ -1,5 +1,5 @@
 # Personal-Projects
-A collection of self-motivated projects. Sometimes simple, sometimes challenging projects that put techniques and thought processes to the test.
+A collection of self-motivated projects. Sometimes simple, sometimes challenging projects that put techniques and thought processes to the test. '\n'
 The order from oldest to most recent projects is as follows:
 YT Scraping & Sentiment
 Box Office Predictions
