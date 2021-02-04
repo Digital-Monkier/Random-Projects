@@ -2,7 +2,7 @@
 A collection of self-motivated projects. Sometimes simple, sometimes challenging projects that put techniques and thought processes to the test. 
 
 
-The order from oldest to most recent projects is as follows:
+The projects are sorted in descending order from oldest to newest project:
 
 YT Scraping & Sentiment
 
