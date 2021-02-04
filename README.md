@@ -8,7 +8,7 @@ YT Scraping & Sentiment
 
 Box Office Predictions
 
-FO Sightings EDA & Modelling
+UFO Sightings EDA & Modelling
 
 Fake News Classifier & Wordclouds
 
