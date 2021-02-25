@@ -12,6 +12,6 @@ UFO Sightings EDA & Modelling - An all out exploration and visualization of ufo 
 
 Fake News Classifier & Wordclouds - Exploring, visualizing, and classifying text 
 
-IMDb Scrape EDA & Modelling - WIP
+IMDb Scrape EDA & Modelling - A Beautiful Soup parsed robust dataset for visual EDA and modelling with over 3000 titles and very few nan values.
 
 BankChurn Data - EDA, Undersampling, ML Modelling, Hyperparameter tuning and cross val
