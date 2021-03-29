@@ -15,3 +15,7 @@ Fake News Classifier & Wordclouds - Exploring, visualizing, and classifying text
 IMDb Scrape EDA & Modelling - A Beautiful Soup parsed robust dataset for visual EDA and modelling with over 3000 titles and very few nan values.
 
 BankChurn Data - EDA, Undersampling, ML Modelling, Hyperparameter tuning and cross val
+
+IMDb Story Search - a short script which takles advantage of Sentence BERT's siamese networking to quickly returns TV recommendations based on a short summary
+
+Disaster Tweets - A Kaggle competition entry which scored 0.83 F1 score in the top 16% of entries using Tensorflow with BERT
